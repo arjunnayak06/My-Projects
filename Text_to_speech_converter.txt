@@ -1,0 +1,327 @@
+Skip to content <#start-of-content>
+Toggle navigation
+<https://github.com/>
+Sign up
+<https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo>
+
+  *
+    Product
+
+      o
+
+        Actions
+        Automate any workflow
+        <https://github.com/features/actions>
+      o
+
+        Packages
+        Host and manage packages
+        <https://github.com/features/packages>
+      o
+
+        Security
+        Find and fix vulnerabilities
+        <https://github.com/features/security>
+      o
+
+        Codespaces
+        Instant dev environments
+        <https://github.com/features/codespaces>
+      o
+
+        Copilot
+        Write better code with AI
+        <https://github.com/features/copilot>
+      o
+
+        Code review
+        Manage code changes
+        <https://github.com/features/code-review>
+      o
+
+        Issues
+        Plan and track work
+        <https://github.com/features/issues>
+      o
+
+        Discussions
+        Collaborate outside of code
+        <https://github.com/features/discussions>
+      o Explore
+      o All features <https://github.com/features>
+      o Documentation <https://docs.github.com/>
+      o GitHub Skills <https://skills.github.com/>
+      o Changelog <https://github.blog/changelog>
+  *
+    Solutions
+
+      o By Plan
+      o Enterprise <https://github.com/enterprise>
+      o Teams <https://github.com/team>
+      o Compare all <https://github.com/pricing#compare-features>
+      o By Solution
+      o CI/CD & Automation <https://resources.github.com/ci-cd/>
+      o DevOps <https://resources.github.com/devops/>
+      o DevSecOps
+        <https://resources.github.com/devops/fundamentals/devsecops/>
+      o Case Studies
+      o Customer Stories <https://github.com/customer-stories>
+      o Resources <https://resources.github.com/>
+  *
+    Open Source
+
+      o
+        GitHub Sponsors
+        Fund open source developers
+        <https://github.com/sponsors>
+      o
+        The ReadME Project
+        GitHub community articles
+        <https://github.com/readme>
+      o Repositories
+      o Topics <https://github.com/topics>
+      o Trending <https://github.com/trending>
+      o Collections <https://github.com/collections>
+  * Pricing <https://github.com/pricing>
+
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+
+  * No suggested jump to results
+
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+  *
+    In this user All GitHub ↵
+    Jump to ↵
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+
+Sign in
+<https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FJakkulaJahnavi%2FJahnaviJakkula%2Fblob%2Fmain%2Fproject.py>
+Sign up
+<https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=JakkulaJahnavi%2FJahnaviJakkula>
+
+{{ message }}
+
+JakkulaJahnavi <https://github.com/JakkulaJahnavi> /
+*JahnaviJakkula <https://github.com/JakkulaJahnavi/JahnaviJakkula>
+
+* Public
+forked from JakkulaJahnavi30/JahnaviJakkula
+<https://github.com/JakkulaJahnavi30/JahnaviJakkula>
+
+  * Notifications
+    <https://github.com/login?return_to=%2FJakkulaJahnavi%2FJahnaviJakkula>
+  * Fork 1
+    <https://github.com/login?return_to=%2FJakkulaJahnavi%2FJahnaviJakkula>
+  *
+    Star 0
+    <https://github.com/login?return_to=%2FJakkulaJahnavi%2FJahnaviJakkula>
+
+  *
+
+    Code <https://github.com/JakkulaJahnavi/JahnaviJakkula>
+  *
+
+    Pull requests 0 <https://github.com/JakkulaJahnavi/JahnaviJakkula/pulls>
+  *
+
+    Actions <https://github.com/JakkulaJahnavi/JahnaviJakkula/actions>
+  *
+
+    Projects 0 <https://github.com/JakkulaJahnavi/JahnaviJakkula/projects>
+  *
+
+    Security <https://github.com/JakkulaJahnavi/JahnaviJakkula/security>
+  *
+
+    Insights <https://github.com/JakkulaJahnavi/JahnaviJakkula/pulse>
+
+More
+
+  * Code <https://github.com/JakkulaJahnavi/JahnaviJakkula>
+  * Pull requests <https://github.com/JakkulaJahnavi/JahnaviJakkula/pulls>
+  * Actions <https://github.com/JakkulaJahnavi/JahnaviJakkula/actions>
+  * Projects <https://github.com/JakkulaJahnavi/JahnaviJakkula/projects>
+  * Security <https://github.com/JakkulaJahnavi/JahnaviJakkula/security>
+  * Insights <https://github.com/JakkulaJahnavi/JahnaviJakkula/pulse>
+
+Permalink
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/blob/eaa91fdc527bf2a0349ddbe5002f0879910a33da/project.py>
+main
+Switch branches/tags
+
+Branches
+
+Tags
+
+Could not load branches
+Nothing to show
+{{ refName }} default
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/project.py>
+View all branches
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/branches>
+
+Could not load tags
+Nothing to show
+{{ refName }} default
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/project.py>
+View all tags <https://github.com/JakkulaJahnavi/JahnaviJakkula/tags>
+
+
+    JahnaviJakkula <https://github.com/JakkulaJahnavi/JahnaviJakkula>/*project.py* /Jump to
+    Code definitions
+
+    No definitions found in this file.
+
+    Code navigation not available for this commit
+
+Go to file <https://github.com/JakkulaJahnavi/JahnaviJakkula/find/main>
+
+  * Go to file T
+    <https://github.com/JakkulaJahnavi/JahnaviJakkula/find/main>
+  *
+    Go to line L
+
+  *
+    Go to definition R
+
+  *
+  *
+    Copy path
+
+  *
+    Copy permalink
+
+This commit does not belong to any branch on this repository, and may
+belong to a fork outside of the repository.
+@JakkulaJahnavi30 <https://github.com/JakkulaJahnavi30>
+JakkulaJahnavi30 <https://github.com/JakkulaJahnavi30> Add files via
+upload
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/commit/a93c2e42f527ac80ef8666d76a175927cb2a324f>
+Latest commit a93c2e4
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/commit/a93c2e42f527ac80ef8666d76a175927cb2a324f> on 19 Jul 2021 *History* <https://github.com/JakkulaJahnavi/JahnaviJakkula/commits/main/project.py>
+*1* contributor
+
+
+      Users who have contributed to this file
+
+53 lines (36 sloc) 1.38 KB
+Raw
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/raw/main/project.py>
+Blame
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/blame/main/project.py>
+
+Edit this file
+E
+
+Open in GitHub Desktop <https://desktop.github.com/>
+
+  * Open with Desktop <https://desktop.github.com/>
+  * View raw
+    <https://github.com/JakkulaJahnavi/JahnaviJakkula/raw/main/project.py>
+  *
+  * View blame
+    <https://github.com/JakkulaJahnavi/JahnaviJakkula/blame/main/project.py>
+
+This file contains bidirectional Unicode text that may be interpreted or
+compiled differently than what appears below. To review, open the file
+in an editor that reveals hidden Unicode characters. Learn more about
+bidirectional Unicode characters <https://github.co/hiddenchars>
+Show hidden characters
+<https://github.com/JakkulaJahnavi/JahnaviJakkula/blob/main/%7B%7B%20revealButtonHref%20%7D%7D>
+	## import libraries
+	
+	from tkinter import *
+	from gtts import gTTS
+	from playsound import playsound
+	
+	
+	################### Initialized window####################
+	root = Tk()
+	root.geometry('350x350')
+	root.resizable(0,0)
+	root.config(bg = 'ghost white')
+	root.title('DataFlair - TEXT_TO_SPEECH')
+	
+	
+	##heading
+	Label(root, text = 'TEXT_TO_SPEECH' , font='arial 20 bold' , bg ='white smoke').pack()
+	Label(root, text ='DataFlair' , font ='arial 15 bold', bg = 'white smoke').pack(side = BOTTOM)
+	
+	#label
+	Label(root, text ='Enter Text', font ='arial 15 bold', bg ='white smoke').place(x=20,y=60)
+	
+	
+	##text variable
+	Msg = StringVar()
+	
+	
+	#Entry
+	entry_field = Entry(root,textvariable =Msg, width ='50')
+	entry_field.place(x=20 , y=100)
+	
+	###################define function##############################
+	
+	def Text_to_speech():
+	    Message = entry_field.get()
+	    speech = gTTS(text = Message)
+	    speech.save('DataFlair.mp3')
+	    playsound('DataFlair.mp3')
+	
+	def Exit():
+	    root.destroy()
+	
+	def Reset():
+	    Msg.set("")
+	
+	#Button
+	Button(root, text = "PLAY" , font = 'arial 15 bold', command = Text_to_speech, width =4).place(x=25, y=140)
+	Button(root,text = 'EXIT',font = 'arial 15 bold' , command = Exit, bg = 'OrangeRed1').place(x=100,y=140)
+	Button(root, text = 'RESET', font='arial 15 bold', command = Reset).place(x=175 , y =140)
+	
+	
+	#infinite loop to run program
+	root.mainloop()
+
+  *
+    Copy lines
+
+  *
+    Copy permalink
+
+  * View git blame
+    <https://github.com/JakkulaJahnavi/JahnaviJakkula/blame/eaa91fdc527bf2a0349ddbe5002f0879910a33da/project.py>
+
+Go
+
+
+    Footer
+
+<https://github.com/> © 2022 GitHub, Inc.
+
+
+      Footer navigation
+
+  * Terms
+    <https://docs.github.com/en/github/site-policy/github-terms-of-service>
+  * Privacy
+    <https://docs.github.com/en/github/site-policy/github-privacy-statement>
+  * Security <https://github.com/security>
+  * Status <https://www.githubstatus.com/>
+  * Docs <https://docs.github.com/>
+  * Contact GitHub <https://support.github.com/?tags=dotcom-footer>
+  * Pricing <https://github.com/pricing>
+  * API <https://docs.github.com/>
+  * Training <https://services.github.com/>
+  * Blog <https://github.blog/>
+  * About <https://github.com/about>
+
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your
+session. You signed out in another tab or window. Reload to refresh your
+session.
